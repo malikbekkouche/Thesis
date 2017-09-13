@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=latex 2017.9.13)  13 SEP 2017 12:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.9.13)  13 SEP 2017 12:42
 entering extended mode
 **./thesis.tex
 (thesis.tex
@@ -365,7 +365,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 12.
  [1
 
-] (thesis.toc
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}] (thesis.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 4.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -375,32 +375,27 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \openout3 = `thesis.toc'.
 
  [2]
-
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `utf8'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.28 ...reasingly approaching the limits of Moore’
-                                                  s law with transistors get...
-You need to provide a definition with \DeclareInputText 
-or \DeclareInputMath before using this key.
-
-
 Overfull \hbox (1.14423pt too wide) in paragraph at lines 35--35
 []\T1/cmr/bx/n/14.4 Current con-cur-rency tree dic-tio-nary im-ple-men-
  []
 
 [3] [4] (thesis.aux) ) 
 Here is how much of TeX's memory you used:
- 754 strings out of 493324
- 6484 string characters out of 3139092
- 59833 words of memory out of 3000000
+ 755 strings out of 493323
+ 6494 string characters out of 3139066
+ 59836 words of memory out of 3000000
  4341 multiletter control sequences out of 15000+200000
  11766 words of font info for 30 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  23i,6n,18p,978b,187s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\malik\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk> <C:\User
+s\malik\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1000.pk> <C:\Users\malik\AppData\Local\MiKTeX\2.
+9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1000.pk> <C:\Users\malik\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\d
+pi600\ecbx1440.pk> <C:\Users\malik\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1200.pk> <C:\Users\ma
+lik\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1728.pk>
+Output written on thesis.pdf (4 pages, 82772 bytes).
+PDF statistics:
+ 261 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
-Output written on thesis.dvi (4 pages, 8908 bytes).
